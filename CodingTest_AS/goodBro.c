@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
+/* 2022.09.01 의좋은 형제*/
 void main() {
 	int jw, sw;
 	int day;

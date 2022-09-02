@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-/* 2022.09.01 ÀÇÁÁÀº ÇüÁ¦*/
+/* 2022.09.01 ì˜ì¢‹ì€ í˜•ì œ */
 void main() {
 	int jw, sw;
 	int day;

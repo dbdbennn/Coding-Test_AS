@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chess.c">
+    <ClCompile Include="cospro2급1차03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

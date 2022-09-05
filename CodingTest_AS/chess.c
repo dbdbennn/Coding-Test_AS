@@ -10,15 +10,15 @@
 
 int main(void)
 {
-	int chess[6] = { 1, 1, 2, 2, 2, 8 };
-	int now[6] = { 0, };               
+	int chess[6] = { 1, 1, 2, 2, 2, 8 }; // 기존 배열
+	int now[6] = { 0, };                 // 현재 갯수
 
 	for (int i = 0; i < 6; i++) {
-		scanf("%d", &now[i]);
+		scanf("%d", &now[i]); // 입력받음
 
-		now[i] = chess[i] - now[i]; 
+		now[i] = chess[i] - now[i]; // 각 값을 빼서 계산함
 
-		printf("%d ", now[i]);
+		printf("%d ", now[i]); // 출력
 	}
 
 	return 0;

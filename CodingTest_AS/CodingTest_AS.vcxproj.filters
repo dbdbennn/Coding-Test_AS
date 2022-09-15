@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="plus_day.c">
+    <ClCompile Include="alarm.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="placeValueSum.c">
+    <ClCompile Include="amusementPark.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
